@@ -1,2 +1,2 @@
 # mycloudproject
-Trying out GIT Hub
+Oh yeah!  GIT IT!
